@@ -31,7 +31,19 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="40" height="40" />
 
+    <hr>
+    
+    ### Contatos:
+
+    <div>
+    <a href="https://www.youtube.com/channel/UC7NEd-99D2RQELhBAQ-Bzfw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/darioreisjr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.twitch.tv/darioreisjr" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+    <a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+    </div>
     
     
 
@@ -39,37 +51,3 @@
 
 
 
-
-
-
-
-
-<br>
-<hr>
-<br>
-<div>
-  <a href="https://github.com/darioreisjr">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=darioreisjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darioreisjr&theme=blue-green"/>
-
-</div>
-  <br>
-  <hr>
-  <br>
-
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="dario-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="dario-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="dario-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="dario-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  
-  
-  </div>
-
-<div>
-
-  </div>
-  
-  
