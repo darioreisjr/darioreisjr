@@ -1,4 +1,15 @@
-### Óla! Eu sou Dario Reis 🥰 Seja Bem-Vindo
+## 👋 Hello! Welcome to my Github profile.
+### My name is Dario Reis and my nickname is "darioreisjr"!
+
+- 🔭 Atualmente estou trabalhando na aréa de segurança, na empresa Verzani & Sandrini.
+- 🌱 Atualmente estou aprendendo desenvolvimento Web ( HTML, CSS e JavaScript).
+- 👯 Sou estudante de Analise e desenvolvimento de sistemas.
+- 💬 Estou em transição de trabalho da aréa de segurança para aréa de tecnologia.
+- 📫 E-mail darioreispjc@gmail.com
+
+### Ferramentas e Tecnologias
+
+
 <br>
 <hr>
 <br>
