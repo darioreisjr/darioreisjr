@@ -9,6 +9,9 @@
 
 ### Ferramentas e Tecnologias
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
+
+
 
 <br>
 <hr>
