@@ -56,9 +56,8 @@
       <img height="160em" src="https://github-readme-stats.vercel.app/api?username=darioreisjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </div>
   
-    <div>
-      ![Snake animation](https://github.com/darioreisjr/darioreisjr/blob/output/github-contribution-grid-snake.svg)
-    </div>
+    
+  
     
     
 
