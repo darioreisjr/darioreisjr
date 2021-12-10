@@ -1,6 +1,10 @@
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Dario Reis and my nickname is "darioreisjr"!
 
+<hr>
+
+<img src="https://camo.githubusercontent.com/7ff31bf674c5358f243c50ad2d3709af50a98c28e1f478dcc898309b973a4099/68747470733a2f2f73757065722e616272696c2e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323031362f30392f73757065725f696d676761746f5f6469676974616e646f5f302e676966" width="350" data-canonical-src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" style="max-width: 100%;">
+
 - 🔭 Atualmente estou trabalhando na aréa de segurança, na empresa Verzani & Sandrini.
 - 🌱 Atualmente estou aprendendo desenvolvimento Web ( HTML, CSS e JavaScript).
 - 👯 Sou estudante de Analise e desenvolvimento de sistemas.
@@ -50,6 +54,10 @@
       <a href="https://github.com/darioreisjr">
       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darioreisjr&layout=compact&langs_count=7&theme=dracula"/>
       <img height="160em" src="https://github-readme-stats.vercel.app/api?username=darioreisjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    </div>
+  
+    <div>
+      ![Snake animation](https://github.com/darioreisjr/darioreisjr/blob/output/github-contribution-grid-snake.svg)
     </div>
     
     
