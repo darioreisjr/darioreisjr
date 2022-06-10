@@ -1,10 +1,14 @@
 # Olá 👋, meu nome é Dario Reis
 
+
 <img width="100%" src="https://media-exp1.licdn.com/dms/image/C4D22AQF5SjGoIs6VFg/feedshare-shrink_800/0/1653911868674?e=1656547200&v=beta&t=iWpNwbN0F9TtesDn5Q_RqpN5fluadpJbwnIt95FCwKw" alt="my banner">
 
 
 Sou Cursista na Faculdade de Analista de Desenvolvimento de Sistemas na Instituição Estácio, atualmente estudo programação. Não atuo na área de curso, sou profissional de segurança privada.
 Desejo muito agregar em uma empresa de tecnologia. Amo tecnologia estudo bastante nesta que no futuro mais próximo possa alcançar meus sonhos e pretextos profissionais e ajudar a contribuir para uma área tão grande
+
+![Snake animation](https://github.com/darioreisjr/darioreisjr/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 💫 Liitle Bit More About Me
 <p>🌱 Estou aprendendo atualmenteJava</p>
