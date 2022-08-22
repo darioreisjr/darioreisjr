@@ -1,6 +1,6 @@
 # Olá 👋, meu nome é Dario Reis
 
-<img width="100%" src="https://media-exp1.licdn.com/dms/image/C4D22AQHGFMdRKtValg/feedshare-shrink_800/0/1657020131393?e=1660176000&v=beta&t=0zU5bPKLTdlhblFYTVng87vfd-Q0RyuNdb2_Vc9Qzoo" alt="my banner">
+<img width="100%" src="https://i.imgur.com/cyqD2d8.png" alt="my banner">
 
 
 Sou Cursista na Faculdade de Analista de Desenvolvimento de Sistemas na Instituição Estácio, atualmente estudo programação. Não atuo na área de curso, sou profissional de segurança privada.
