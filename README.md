@@ -1,6 +1,6 @@
 # Olá 👋, meu nome é Dario Reis
+![Assinatura de e-mail profissional de tecnologia neon roxo e lilás (1)](https://user-images.githubusercontent.com/85812823/194149443-a16192bb-75aa-47b1-8499-d1e23b8ade9e.png)
 
-<img width="100%" src="https://i.imgur.com/cyqD2d8.png" alt="my banner">
 
 
 Sou Cursista na Faculdade de Analista de Desenvolvimento de Sistemas na Instituição Estácio, atualmente estudo programação. Não atuo na área de curso, sou profissional de segurança privada.
