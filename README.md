@@ -1,5 +1,7 @@
 # Olá 👋, meu nome é Dario Reis
-![Assinatura de e-mail profissional de tecnologia neon roxo e lilás (1)](https://user-images.githubusercontent.com/85812823/194149443-a16192bb-75aa-47b1-8499-d1e23b8ade9e.png)
+
+
+![Assinatura de e-mail profissional de tecnologia neon roxo e lilás (2)](https://user-images.githubusercontent.com/85812823/194149669-ea9d1e76-aa77-445c-a508-2bcc33642b0b.png)
 
 
 
