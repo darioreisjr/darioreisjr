@@ -5,8 +5,20 @@
 
 
 
-Sou Cursista na Faculdade de Analista de Desenvolvimento de Sistemas na Instituição Estácio, atualmente estudo programação. Não atuo na área de curso, sou profissional de segurança privada.
-Desejo muito agregar em uma empresa de tecnologia. Amo tecnologia estudo bastante nesta que no futuro mais próximo possa alcançar meus sonhos e pretextos profissionais e ajudar a contribuir para uma área tão grande
+Olá! Sou graduando em Análise de Desenvolvimento de Sistemas, além de ter dedicado mais de dois anos ao estudo contínuo na área. Possuo experiência atuando como Porteiro e Auxiliar de Escritório, buscando uma oportunidade para iniciar minha carreira como desenvolvedor de software front-end .
+
+Tenho habilidades sólidas em desenvolvimento front-end, trabalhando com tecnologias como React, React Native, Next.js, Git, JavaScript e TypeScript. Além disso, possuo conhecimentos em integrações com APIs externas, escalabilidade no front-end e design patterns.
+
+Valorizo o trabalho em equipe e sou capaz de me comunicar efetivamente. Tenho experiência em metodologias ágeis e estou sempre em busca de aprender novas tecnologias e me manter atualizado.
+Além de aperfeiçoar meus conhecimentos usando a plataforma da Alura, Udemy e Digital Innovation One Sou um profissional da área de tecnologia da informação, atuar e falar sobre tecnologia é meu objetivo. Me defino como uma pessoa entusiasta e apaixonada por inovação e avanços tecnológicos. Acredito que as conexões movem o mundo e são capazes de ampliar o nosso repertório de vida e contribuir para nossa evolução. Minhas experiências são voltadas para a área de gestão de pessoas, onde pude adquirir experiência na área administrativa, e também na área de segurança privada, onde adquiri experiência com trabalho em equipe e comunicação. 
+
+Tenho experiencia na área de desenvolvimento de softwares com um Bootcamp da Generation Brasil, onde obtive conhecimentos em habilidades de soft skills e hard skills, conhecimento em Java com Spring no back end e Typescript e React no Front end, como também conhecimento de Banco de Dados e Testes unitários. 
+
+Além do meu foco principal em front-end, também tenho conhecimentos em tecnologias de back-end, Node.js, Express, Prisma, MongoDB, PostgreSQL e criação de APIs.
+
+Se você busca um desenvolvedor front-end comprometido e motivado, ficarei feliz em contribuir com minha experiência e habilidades. Estou disponível para discussões, colaborações e troca de ideias.
+
+
 
 ![Snake animation](https://github.com/darioreisjr/darioreisjr/blob/output/github-contribution-grid-snake.svg)
 
