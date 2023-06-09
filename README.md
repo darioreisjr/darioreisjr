@@ -34,7 +34,7 @@ Se você busca um desenvolvedor front-end comprometido e motivado, ficarei feliz
 ## 💫 Liitle Bit More About Me
 <p>🌱 Estou aprendendo atualmente Java</p>
 <p>📫 Como chegar até mim? darioreispjc@gmail.com</p>
-<p>I regularly write articles on <a href="https://darioreis.netlify.app/"> Portfólio</a></p>
+<p>I regularly write articles on <a href="https://darioreisjr.vercel.app/"> Portfólio Pessoal</a></p>
 
 <h2 align="center">💻 Skills</h2>
 
