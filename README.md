@@ -4,7 +4,7 @@
 ![1685965430800](https://github.com/darioreisjr/darioreisjr/assets/85812823/b4c5fdf0-aace-443b-bda0-61926093387a)
 
 <hr/>
-<div align="center" >
+<div align="justify" >
 Olá! Sou graduando em Análise de Desenvolvimento de Sistemas, além de ter dedicado mais de dois anos ao estudo contínuo na área. Possuo experiência atuando como Porteiro e Auxiliar de Escritório, buscando uma oportunidade para iniciar minha carreira como desenvolvedor de software front-end .
 
 Tenho habilidades sólidas em desenvolvimento front-end, trabalhando com tecnologias como React, React Native, Next.js, Git, JavaScript e TypeScript. Além disso, possuo conhecimentos em integrações com APIs externas, escalabilidade no front-end e design patterns.
