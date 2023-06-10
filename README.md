@@ -1,7 +1,7 @@
 # Olá 👋, meu nome é Dario Reis
 
 
-![Assinatura de e-mail profissional de tecnologia neon roxo e lilás (2)](https://user-images.githubusercontent.com/85812823/194149669-ea9d1e76-aa77-445c-a508-2bcc33642b0b.png)
+![1685965430800](https://github.com/darioreisjr/darioreisjr/assets/85812823/b4c5fdf0-aace-443b-bda0-61926093387a)
 
 
 
@@ -32,7 +32,7 @@ Se você busca um desenvolvedor front-end comprometido e motivado, ficarei feliz
 
 
 ## 💫 Liitle Bit More About Me
-<p>🌱 Estou aprendendo atualmente Java</p>
+<p>🌱 Estou aprendendo atualmente Next.js e Nest</p>
 <p>📫 Como chegar até mim? darioreispjc@gmail.com</p>
 <p>I regularly write articles on <a href="https://darioreisjr.vercel.app/"> Portfólio Pessoal</a></p>
 
