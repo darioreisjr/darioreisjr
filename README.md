@@ -15,9 +15,34 @@
 
 <div align="justify" >
   
-  <p>
-    
-  </p>
+  Desenvolvedor Full Stack
+Olá! Sou um desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas, em busca da minha primeira oportunidade no mercado para aplicar e aprimorar minhas habilidades.
+
+Experiência e Habilidades
+Tenho 3 anos de estudo intensivo em programação e minha experiência abrange uma ampla gama de tecnologias, incluindo:
+
+HTML
+CSS
+JavaScript
+TypeScript
+ReactJS
+React-Native
+NextJS
+NodeJS
+NestJS
+Angular
+Java
+Spring Boot
+PHP
+Além disso, tenho experiência com gerenciamento de Banco de Dados, realização de Testes Unitários, controle de versão usando Git e GitHub, e com a integração de APIs externas.
+
+Aprendizado Contínuo
+Estou sempre buscando aperfeiçoar meus conhecimentos e habilidades. Para isso, utilizo plataformas como Alura, DIO, Udemy e Danki Code. Acredito que o aprendizado contínuo é fundamental na área de tecnologia, onde novas ferramentas e técnicas estão sempre surgindo.
+
+Em Busca de Oportunidades
+Estou ansioso para trazer minha paixão por desenvolvimento e minha vontade de aprender para uma equipe dinâmica. Se você está procurando um desenvolvedor comprometido, dedicado e pronto para enfrentar desafios, adoraria conversar com você.
+
+Obrigado por considerar meu perfil. Estou ansioso para a possibilidade de contribuir para sua equipe.
 
 </div>
 
