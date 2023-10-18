@@ -1,22 +1,24 @@
-# Olá 👋, meu nome é Dario Reis
-
-
-![1685965430800](https://github.com/darioreisjr/darioreisjr/assets/85812823/b4c5fdf0-aace-443b-bda0-61926093387a)
+<div align="center"> 
+  
+  <h1>
+    Olá 👋, meu nome é Dario Reis
+  </h1>
+  
+  <div> 
+    <img src="https://media.licdn.com/dms/image/D4D16AQEDR_xpTeO-GQ/profile-displaybackgroundimage-shrink_350_1400/0/1697498221526?e=1703116800&v=beta&t=BzmPmbQQLklexdkiCjkpFDYxxz9e6aoF0X87pS4vWgE" />
+  </div>
+  
+</div>
 
 <hr/>
+
+
 <div align="justify" >
-Olá! Sou graduando em Análise de Desenvolvimento de Sistemas, além de ter dedicado mais de dois anos ao estudo contínuo na área. Possuo experiência atuando como Porteiro e Auxiliar de Escritório, buscando uma oportunidade para iniciar minha carreira como desenvolvedor de software front-end .
+  
+  <p>
+    
+  </p>
 
-Tenho habilidades sólidas em desenvolvimento front-end, trabalhando com tecnologias como React, React Native, Next.js, Git, JavaScript e TypeScript. Além disso, possuo conhecimentos em integrações com APIs externas, escalabilidade no front-end e design patterns.
-
-Valorizo o trabalho em equipe e sou capaz de me comunicar efetivamente. Tenho experiência em metodologias ágeis e estou sempre em busca de aprender novas tecnologias e me manter atualizado.
-Além de aperfeiçoar meus conhecimentos usando a plataforma da Alura, Udemy e Digital Innovation One Sou um profissional da área de tecnologia da informação, atuar e falar sobre tecnologia é meu objetivo. Me defino como uma pessoa entusiasta e apaixonada por inovação e avanços tecnológicos. Acredito que as conexões movem o mundo e são capazes de ampliar o nosso repertório de vida e contribuir para nossa evolução. Minhas experiências são voltadas para a área de gestão de pessoas, onde pude adquirir experiência na área administrativa, e também na área de segurança privada, onde adquiri experiência com trabalho em equipe e comunicação. 
-
-Tenho experiencia na área de desenvolvimento de softwares com um Bootcamp da Generation Brasil, onde obtive conhecimentos em habilidades de soft skills e hard skills, conhecimento em Java com Spring no back end e Typescript e React no Front end, como também conhecimento de Banco de Dados e Testes unitários. 
-
-Além do meu foco principal em front-end, também tenho conhecimentos em tecnologias de back-end, Node.js, Express, Prisma, MongoDB, PostgreSQL e criação de APIs.
-
-Se você busca um desenvolvedor front-end comprometido e motivado, ficarei feliz em contribuir com minha experiência e habilidades. Estou disponível para discussões, colaborações e troca de ideias.
 </div>
 
 <hr/>
