@@ -1,127 +1,81 @@
-<div align="center"> 
-  
-  <h1>
-    Olá 👋, meu nome é Dario Reis
-  </h1>
-  
-  <div> 
-    <img src="https://media.licdn.com/dms/image/D4D16AQEDR_xpTeO-GQ/profile-displaybackgroundimage-shrink_350_1400/0/1697498221526?e=1703116800&v=beta&t=BzmPmbQQLklexdkiCjkpFDYxxz9e6aoF0X87pS4vWgE" />
-  </div>
-  
-</div>
+# Hi there 👋, My name is Dario Reis
 
-<hr/>
+<img width="100%" src="https://media.licdn.com/dms/image/D4D16AQG8gtXH7VmisA/profile-displaybackgroundimage-shrink_350_1400/0/1704449573607?e=1717027200&v=beta&t=7XdaK0rKBLpfrllGZUFj9ngLbwEeuQQw9MGyBO6APas" alt="my banner">
 
+Olá! Eu sou um desenvolvedor Full Stack apaixonado por tecnologia e pronto para contribuir com meus conhecimentos e habilidades para sua equipe.
 
-<div align="justify" >
-  
-  Desenvolvedor Full Stack
-Olá! Sou um desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas, em busca da minha primeira oportunidade no mercado para aplicar e aprimorar minhas habilidades.
+Experiência e Habilidades:
 
-Experiência e Habilidades
-Tenho 3 anos de estudo intensivo em programação e minha experiência abrange uma ampla gama de tecnologias, incluindo:
+Formação: Análise e Desenvolvimento de Sistemas
+3 anos de experiência em desenvolvimento de software
+Ampla gama de tecnologias:
+Front-end: HTML, CSS, JavaScript, TypeScript, ReactJS, React-Native, NextJS
+Back-end: NodeJS, NestJS, Angular, Java, Spring Boot, PHP
+Banco de dados: MySQL, PostgreSQL, MongoDB
+Testes: Testes Unitários
+Controle de versão: Git, GitHub
+Integração de APIs: Experiência com diversas APIs
+Aprendizado contínuo: Alura, DIO, Udemy, Danki Code
+Sobre mim:
 
-HTML
-CSS
-JavaScript
-TypeScript
-ReactJS
-React-Native
-NextJS
-NodeJS
-NestJS
-Angular
-Java
-Spring Boot
-PHP
-Além disso, tenho experiência com gerenciamento de Banco de Dados, realização de Testes Unitários, controle de versão usando Git e GitHub, e com a integração de APIs externas.
+Apaixonado por tecnologia e desenvolvimento de software
+Comprometido, dedicado e pronto para enfrentar desafios
+Proativo e com grande capacidade de aprendizado
+Trabalho em equipe e comunicação eficaz
+Estou buscando:
 
-Aprendizado Contínuo
-Estou sempre buscando aperfeiçoar meus conhecimentos e habilidades. Para isso, utilizo plataformas como Alura, DIO, Udemy e Danki Code. Acredito que o aprendizado contínuo é fundamental na área de tecnologia, onde novas ferramentas e técnicas estão sempre surgindo.
-
-Em Busca de Oportunidades
-Estou ansioso para trazer minha paixão por desenvolvimento e minha vontade de aprender para uma equipe dinâmica. Se você está procurando um desenvolvedor comprometido, dedicado e pronto para enfrentar desafios, adoraria conversar com você.
-
-Obrigado por considerar meu perfil. Estou ansioso para a possibilidade de contribuir para sua equipe.
-
-</div>
-
-<hr/>
-
-
-![Snake animation](https://github.com/darioreisjr/darioreisjr/blob/output/github-contribution-grid-snake.svg)
-
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=radical&locale=pt-br&hide_border=true&username=darioreisjr" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=true&username=darioreisjr" height="150" alt="languages graph"  />
-</div>
-
+Minha primeira oportunidade no mercado de trabalho
+Uma equipe dinâmica e desafiadora
+Contribuir para o crescimento da empresa
+Se você está procurando um desenvolvedor Full Stack com as habilidades acima, entre em contato comigo!
 
 ## 💫 Liitle Bit More About Me
-<p>🌱 Estou aprendendo atualmente Next.js e Nest</p>
-<p>📫 Como chegar até mim? darioreispjc@gmail.com</p>
-<p>I regularly write articles on <a href="https://darioreisjr.vercel.app/"> Portfólio Pessoal</a></p>
+<p>👯 I want to collaborate on with a dynamic and challenging team to contribute to the company's growth.</p>
+<p>🙏 I'm looking for help with Finding my first opportunity in the job market as a Full Stack Developer.</p>
+<p>🌱 I'm currently learning I am currently learning about a new programming language such as javascript and java</p>
+<p>💬 Ask me about Front-end: HTML, CSS, JavaScript, TypeScript, ReactJS, React-Native, NextJS</p>
+<p>📫 How to reach me? dev.darioreis@gmail.com</p>
+<p>I regularly write articles on <a href="https://darioreisjr.vercel.app/">Portifolio</a></p>
+<p>All of my projects are available at <a href="https://darioreisjr.vercel.app/">Blog</a></p>
 
-<h2 align="center">💻 Skills</h2>
+## 💻 Skills
+<p>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
+</p>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" width="42" alt="angularjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" width="42" alt="canva logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" width="42" alt="chrome logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" height="30" width="42" alt="codepen logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" width="42" alt="jquery logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" width="42" alt="photoshop logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" width="42" alt="spring logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
-</div>
-
-<h2 align="center">👥 Connect With Me</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.youtube.com/channel/UC7NEd-99D2RQELhBAQ-Bzfw" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/darioreisjr/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/darioreisjr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/darioreisjr/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/darioreisjr/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://twitter.com/darioreisjr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
+## 👥 Connect With Me
+<p>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/darioreisjr/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://twitter.com/https://twitter.com/darioreisjr"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://twitter.com/darioreisjr"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://twitter.com/https://stackoverflow.com/users/21618807/dario-reis"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.facebook.com/https://www.facebook.com/darioreisjr"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.instagram.com/https://www.instagram.com/darioreisjr/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/UC7NEd-99D2RQELhBAQ-Bzfw"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+</p>
 
 ## 🌟 Github Badges
 <p>
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" height="24px">
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" height="24px">
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="24px">
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" height="24px">
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" height="24px">
 </p>
 
 ## 🏆 GitHub Trophies
@@ -133,10 +87,12 @@ Obrigado por considerar meu perfil. Estou ansioso para a possibilidade de contri
 
 <p><img src="https://activity-graph.herokuapp.com/graph?username=darioreisjr"><p>
 
-<p><img src="https://metrics.lecoq.io/darioreisjr"><p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=darioreisjr&show_icons=true"><p>
 
-<br clear="both">
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darioreisjr&layout=compact"><p>
+
+<p><img src="https://metrics.lecoq.io/darioreisjr"><p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=darioreisjr"><p>
 
-<img align="right" src="https://profile-counter.glitch.me/darioreisjr/count.svg?"  />
+<p><img src="https://visitcount.itsvg.in/api?id=darioreisjr&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
