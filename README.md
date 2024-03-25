@@ -85,14 +85,15 @@ Se você está procurando um desenvolvedor Full Stack com as habilidades acima, 
 
 ## 📊 Github Status
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=darioreisjr"><p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darioreisjr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darioreisjr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=darioreisjr&show_icons=true"><p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darioreisjr&layout=compact"><p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=darioreisjr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-<p><img src="https://metrics.lecoq.io/darioreisjr"><p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=darioreisjr"><p>
 
-<p><img src="https://visitcount.itsvg.in/api?id=darioreisjr&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
