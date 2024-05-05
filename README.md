@@ -15,7 +15,7 @@ Banco de dados: MySQL, PostgreSQL, MongoDB
 Testes: Testes Unitários
 Controle de versão: Git, GitHub
 Integração de APIs: Experiência com diversas APIs
-Aprendizado contínuo: Alura, DIO, Udemy, Danki Code
+Aprendizado contínuo: Rocketseat, Alura, DIO, Udemy, Danki Code
 Sobre mim:
 
 Apaixonado por tecnologia e desenvolvimento de software
