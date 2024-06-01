@@ -1,6 +1,7 @@
 # Hi there 👋, My name is Dario Reis
 
-<img width="100%" src="https://media.licdn.com/dms/image/D4D16AQG8gtXH7VmisA/profile-displaybackgroundimage-shrink_350_1400/0/1704449573607?e=1717027200&v=beta&t=7XdaK0rKBLpfrllGZUFj9ngLbwEeuQQw9MGyBO6APas" alt="my banner">
+<img width="100%" src="https://github.com/darioreisjr/darioreisjr/assets/85812823/f270414a-466b-4af6-9168-4f39ee9abb49" alt="my banner">
+
 
 Olá! Eu sou um desenvolvedor Full Stack apaixonado por tecnologia e pronto para contribuir com meus conhecimentos e habilidades para sua equipe.
 
