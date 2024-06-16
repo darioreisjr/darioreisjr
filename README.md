@@ -35,9 +35,9 @@ Se você está procurando um desenvolvedor Full Stack com as habilidades acima, 
 <p>🙏 I'm looking for help with Finding my first opportunity in the job market as a Full Stack Developer.</p>
 <p>🌱 I'm currently learning I am currently learning about a new programming language such as javascript and java</p>
 <p>💬 Ask me about Front-end: HTML, CSS, JavaScript, TypeScript, ReactJS, React-Native, NextJS</p>
-<p>📫 How to reach me? dev.darioreis@gmail.com</p>
-<p>I regularly write articles on <a href="https://darioreisjr.vercel.app/">Portifolio</a></p>
-<p>All of my projects are available at <a href="https://darioreisjr.vercel.app/">Blog</a></p>
+<p>📫 How to reach me? contato@darioreis.dev</p>
+<p>I regularly write articles on <a href="https://darioreis.dev/">Portifolio</a></p>
+<p>All of my projects are available at <a href="https://darioreis.dev/">Blog</a></p>
 
 ## 💻 Skills
 <p>
