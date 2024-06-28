@@ -3,32 +3,28 @@
 <img width="100%" src="https://github.com/darioreisjr/darioreisjr/assets/85812823/f270414a-466b-4af6-9168-4f39ee9abb49" alt="my banner">
 
 
-Olá! Eu sou um desenvolvedor Full Stack apaixonado por tecnologia e pronto para contribuir com meus conhecimentos e habilidades para sua equipe.
+Sou um desenvolvedor Full Stack experiente e apaixonado por tecnologia, com 3 anos de experiência em criar soluções inovadoras e eficientes. Movido por desafios e com um entusiasmo contagiante, busco minha primeira oportunidade profissional para contribuir com meus conhecimentos e habilidades para sua equipe.
 
-Experiência e Habilidades:
+Minha Caixa de Ferramentas Tecnológica:
 
-Formação: Análise e Desenvolvimento de Sistemas
-3 anos de experiência em desenvolvimento de software
-Ampla gama de tecnologias:
-Front-end: HTML, CSS, JavaScript, TypeScript, ReactJS, React-Native, NextJS
-Back-end: NodeJS, NestJS, Angular, Java, Spring Boot, PHP
+Front-end: HTML, CSS, JavaScript, TypeScript, Angular, ReactJS, React-Native, NextJS
+Back-end: NodeJS, NestJS, Java, Spring Boot, PHP
 Banco de dados: MySQL, PostgreSQL, MongoDB
 Testes: Testes Unitários
 Controle de versão: Git, GitHub
 Integração de APIs: Experiência com diversas APIs
-Aprendizado contínuo: Rocketseat, Alura, DIO, Udemy, Danki Code
-Sobre mim:
+Mais do que Habilidades:
 
-Apaixonado por tecnologia e desenvolvimento de software
-Comprometido, dedicado e pronto para enfrentar desafios
-Proativo e com grande capacidade de aprendizado
-Trabalho em equipe e comunicação eficaz
-Estou buscando:
+Aprendizagem contínua: Rocketseat, Alura, DIO, Udemy, Danki Code
+Comprometido, dedicado e pronto para enfrentar desafios: Enfrento cada projeto com entusiasmo e profissionalismo, buscando sempre as melhores soluções.
+Proativo e com grande capacidade de aprendizado: Sou ávido por novos conhecimentos e me adapto rapidamente a novas tecnologias e metodologias.
+Trabalho em equipe e comunicação eficaz: Colaboro de forma eficiente com a equipe, me comunicando de forma clara e objetiva para alcançarmos os melhores resultados.
+O que Busco:
 
-Minha primeira oportunidade no mercado de trabalho
-Uma equipe dinâmica e desafiadora
-Contribuir para o crescimento da empresa
-Se você está procurando um desenvolvedor Full Stack com as habilidades acima, entre em contato comigo!
+Minha primeira oportunidade no mercado de trabalho para colocar em prática meus conhecimentos e habilidades em um ambiente desafiador e dinâmico.
+Uma equipe dinâmica e colaborativa: Onde eu possa aprender e crescer ao lado de profissionais experientes e apaixonados por tecnologia.
+Contribuir para o crescimento da empresa: Fazer parte de um projeto significativo e que gere impacto positivo.
+Acredito que minhas habilidades e meu entusiasmo podem ser um grande trunfo para sua equipe. Entre em contato comigo e vamos juntos desvendar novos horizontes tecnológicos!
 
 ## 💫 Liitle Bit More About Me
 <p>👯 I want to collaborate on with a dynamic and challenging team to contribute to the company's growth.</p>
