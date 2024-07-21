@@ -7,12 +7,12 @@ Sou um desenvolvedor Full Stack experiente e apaixonado por tecnologia, com 3 an
 
 Minha Caixa de Ferramentas Tecnológica:
 
-Front-end: HTML, CSS, JavaScript, TypeScript, ReactJS, React-Native, NextJS
-Back-end: NodeJS, NestJS 
-Banco de dados: MySQL, PostgreSQL, MongoDB
-Testes: Testes Unitários
-Controle de versão: Git, GitHub
-Integração de APIs: Experiência com diversas APIs
+Front-end: HTML, CSS, JavaScript, TypeScript, ReactJS, React-Native, NextJS </br>
+Back-end: NodeJS, NestJS </br>
+Banco de dados: MySQL, PostgreSQL, MongoDB </br>
+Testes: Testes Unitários </br>
+Controle de versão: Git, GitHub </br>
+Integração de APIs: Experiência com diversas APIs </br>
 Mais do que Habilidades:
 
 Aprendizagem contínua: Rocketseat, Alura, DIO, Udemy, Danki Code
