@@ -1,43 +1,65 @@
-# Hi there 👋, My name is Dario Reis
-
-<img width="100%" src="https://github.com/darioreisjr/darioreisjr/assets/85812823/f270414a-466b-4af6-9168-4f39ee9abb49" alt="my banner">
+<img width="100%" src="https://github.com/user-attachments/assets/0be901f0-8fe7-4419-be06-d5ff43597dc3" alt="my banner">
 
 
-Sou um desenvolvedor Full Stack experiente e apaixonado por tecnologia, com 3 anos de experiência em criar soluções inovadoras e eficientes. Movido por desafios e com um entusiasmo contagiante, busco minha primeira oportunidade profissional para contribuir com meus conhecimentos e habilidades para sua equipe.
 
-Minha Caixa de Ferramentas Tecnológica:
 
-Front-end: HTML, CSS, JavaScript, TypeScript, ReactJS, React-Native, NextJS </br>
-Back-end: NodeJS, NestJS </br>
-Banco de dados: MySQL, PostgreSQL, MongoDB </br>
-Testes: Testes Unitários </br>
-Controle de versão: Git, GitHub </br>
-Integração de APIs: Experiência com diversas APIs </br>
-Mais do que Habilidades:
 
-Aprendizagem contínua: Rocketseat, Alura, DIO, Udemy, Danki Code
-Comprometido, dedicado e pronto para enfrentar desafios: Enfrento cada projeto com entusiasmo e profissionalismo, buscando sempre as melhores soluções.
-Proativo e com grande capacidade de aprendizado: Sou ávido por novos conhecimentos e me adapto rapidamente a novas tecnologias e metodologias.
-Trabalho em equipe e comunicação eficaz: Colaboro de forma eficiente com a equipe, me comunicando de forma clara e objetiva para alcançarmos os melhores resultados.
-O que Busco:
+# 👋 Olá! Eu sou Dário Reis
 
-Minha primeira oportunidade no mercado de trabalho para colocar em prática meus conhecimentos e habilidades em um ambiente desafiador e dinâmico.
-Uma equipe dinâmica e colaborativa: Onde eu possa aprender e crescer ao lado de profissionais experientes e apaixonados por tecnologia.
-Contribuir para o crescimento da empresa: Fazer parte de um projeto significativo e que gere impacto positivo.
-Acredito que minhas habilidades e meu entusiasmo podem ser um grande trunfo para sua equipe. Entre em contato comigo e vamos juntos desvendar novos horizontes tecnológicos!
+Sou um **Desenvolvedor Full Stack** experiente e apaixonado por tecnologia, com 3 anos de experiência em criar soluções inovadoras e eficientes. Movido por desafios e com um entusiasmo contagiante, estou em busca de minha primeira oportunidade profissional para contribuir com meus conhecimentos e habilidades para sua equipe.
 
-## 💫 Liitle Bit More About Me
-<p>👯 I want to collaborate on with a dynamic and challenging team to contribute to the company's growth.</p>
-<p>🙏 I'm looking for help with Finding my first opportunity in the job market as a Full Stack Developer.</p>
-<p>🌱 I'm currently learning I am currently learning about a new programming language such as javascript and java</p>
-<p>💬 Ask me about Front-end: HTML, CSS, JavaScript, TypeScript, ReactJS, React-Native, NextJS</p>
-<p>📫 How to reach me? contato@darioreis.dev</p>
-<p>I regularly write articles on <a href="https://darioreis.dev/">Portifolio</a></p>
-<p>All of my projects are available at <a href="https://darioreis.dev/">Blog</a></p>
+## 🛠️ Minha Caixa de Ferramentas Tecnológica
+
+### Front-end
+- **Linguagens**: HTML, CSS, JavaScript, TypeScript
+- **Frameworks/Bibliotecas**: ReactJS, React Native, NextJS
+
+### Back-end
+- **Linguagens**: NodeJS
+- **Frameworks**: NestJS
+
+### Banco de Dados
+- **Relacionais**: MySQL, PostgreSQL
+- **Não-Relacionais**: MongoDB
+
+### Testes
+- **Testes Unitários**
+
+### Controle de Versão
+- **Ferramentas**: Git, GitHub
+
+### Integração de APIs
+- Experiência com diversas APIs
+
+## 🌟 Mais do que Habilidades
+
+- **Aprendizagem Contínua**: Rocketseat, Alura, DIO, Udemy, Danki Code
+- **Comprometido e Dedicado**: Enfrento cada projeto com entusiasmo e profissionalismo, buscando sempre as melhores soluções.
+- **Proativo e Adaptável**: Ávido por novos conhecimentos, me adapto rapidamente a novas tecnologias e metodologias.
+- **Trabalho em Equipe e Comunicação Eficaz**: Colaboro de forma eficiente com a equipe, comunicando-me de forma clara e objetiva para alcançarmos os melhores resultados.
+
+## 🎯 O que Busco
+
+- **Primeira Oportunidade Profissional**: Desejo colocar em prática meus conhecimentos e habilidades em um ambiente desafiador e dinâmico.
+- **Equipe Dinâmica e Colaborativa**: Anseio por aprender e crescer ao lado de profissionais experientes e apaixonados por tecnologia.
+- **Contribuir para o Crescimento da Empresa**: Quero fazer parte de um projeto significativo que gere impacto positivo.
+
+Acredito que minhas habilidades e meu entusiasmo podem ser um grande trunfo para sua equipe. Entre em [contato comigo](mailto:dev.darioreis@gmail.com) e vamos juntos desvendar novos horizontes tecnológicos!
+
+
+
+## 💫 Um Pouco Mais Sobre Mim
+
+- 👯 **Colaboração**: Quero colaborar com uma equipe dinâmica e desafiadora para contribuir com o crescimento da empresa.
+- 🙏 **Ajuda**: Estou à procura de ajuda para encontrar minha primeira oportunidade no mercado de trabalho como Desenvolvedor Full Stack.
+- 🌱 **Aprendizado**: Atualmente estou aprendendo sobre novas linguagens de programação, como Go e Python.
+- 💬 **Pergunte-me Sobre**: Front-end: HTML, CSS, JavaScript, TypeScript, ReactJS, React-Native, NextJS.
+- 📫 **Como me encontrar?**: [contato@darioreis.dev](mailto:contato@darioreis.dev)
+- ✍ **Escrevo regularmente artigos em**: [Portfólio](https://darioreis.dev/)
+- 💻 **Todos os meus projetos estão disponíveis em**: [Blog](https://darioreis.dev/)
 
 ## 💻 Skills
 <p>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="margin-bottom: 4px;" height="30px">
@@ -47,7 +69,6 @@ Acredito que minhas habilidades e meu entusiasmo podem ser um grande trunfo para
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
@@ -77,7 +98,8 @@ Acredito que minhas habilidades e meu entusiasmo podem ser um grande trunfo para
 
 ## 🏆 GitHub Trophies
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=darioreisjr">
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=darioreisjr">
 </p>
 
 ## 📊 Github Status
