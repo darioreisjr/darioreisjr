@@ -1,9 +1,5 @@
 <img width="100%" src="https://github.com/user-attachments/assets/0be901f0-8fe7-4419-be06-d5ff43597dc3" alt="my banner">
 
-
-
-
-
 # 👋 Olá! Eu sou Dário Reis
 
 Sou um **Desenvolvedor Full Stack** experiente e apaixonado por tecnologia, com 3 anos de experiência em criar soluções inovadoras e eficientes. Movido por desafios e com um entusiasmo contagiante, estou em busca de minha primeira oportunidade profissional para contribuir com meus conhecimentos e habilidades para sua equipe.
@@ -59,7 +55,7 @@ Acredito que minhas habilidades e meu entusiasmo podem ser um grande trunfo para
 - 💻 **Todos os meus projetos estão disponíveis em**: [Blog](https://darioreis.dev/)
 
 ## 💻 Skills
-<p>
+<div>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="margin-bottom: 4px;" height="30px">
@@ -74,7 +70,7 @@ Acredito que minhas habilidades e meu entusiasmo podem ser um grande trunfo para
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
-</p>
+</div>
 
 ## 👥 Connect With Me
 <p>
