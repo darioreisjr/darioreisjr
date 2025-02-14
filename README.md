@@ -48,9 +48,9 @@ Acredito que minhas habilidades e meu entusiasmo podem ser um grande trunfo para
 
 - 👯 **Colaboração**: Quero colaborar com uma equipe dinâmica e desafiadora para contribuir com o crescimento da empresa.
 - 🙏 **Ajuda**: Estou à procura de ajuda para encontrar minha primeira oportunidade no mercado de trabalho como Desenvolvedor Full Stack.
-- 🌱 **Aprendizado**: Atualmente estou aprendendo sobre novas linguagens de programação, como Go e Python.
+- 🌱 **Aprendizado**: Atualmente estou aprendendo sobre novas linguagens de programação, como Python.
 - 💬 **Pergunte-me Sobre**: Front-end: HTML, CSS, JavaScript, TypeScript, ReactJS, React-Native, NextJS.
-- 📫 **Como me encontrar?**: [contato@darioreis.dev](mailto:contato@darioreis.dev)
+- 📫 **Como me encontrar?**: [contato@darioreis.dev](mailto:dev.darioreis@gmail.com)
 - ✍ **Escrevo regularmente artigos em**: [Portfólio](https://darioreis.dev/)
 - 💻 **Todos os meus projetos estão disponíveis em**: [Blog](https://darioreis.dev/)
 
