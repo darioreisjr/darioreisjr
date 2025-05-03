@@ -1,8 +1,9 @@
-<img width="100%" src="https://github.com/user-attachments/assets/0be901f0-8fe7-4419-be06-d5ff43597dc3" alt="my banner">
+<img width="100%" src="https://github.com/user-attachments/assets/74b7a8ed-73d5-4133-97a8-001ab940b4c1" alt="my banner">
 
-# 👋 Olá! Eu sou Dário Reis
+# 👋 Olá! Eu sou Dário Reis!
 
-Sou um **Desenvolvedor Full Stack** experiente e apaixonado por tecnologia, com 3 anos de experiência em criar soluções inovadoras e eficientes. Movido por desafios e com um entusiasmo contagiante, estou em busca de minha primeira oportunidade profissional para contribuir com meus conhecimentos e habilidades para sua equipe.
+
+Sou um **Desenvolvedor Full Stack** experiente e apaixonado por tecnologia, com 4 anos de experiência em criar soluções inovadoras e eficientes. Movido por desafios e com um entusiasmo contagiante, estou em busca de minha primeira oportunidade profissional para contribuir com meus conhecimentos e habilidades para sua equipe.
 
 ## 🛠️ Minha Caixa de Ferramentas Tecnológica
 
