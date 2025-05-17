@@ -2,58 +2,148 @@
 
 # 👋 Olá! Eu sou Dário Reis!
 
+Desenvolvedor **Full Stack** com **5 anos de experiência** transformando **ideias em código** e construindo **aplicações de alto impacto**.
 
-Sou um **Desenvolvedor Full Stack** experiente e apaixonado por tecnologia, com 4 anos de experiência em criar soluções inovadoras e eficientes. Movido por desafios e com um entusiasmo contagiante, estou em busca de minha primeira oportunidade profissional para contribuir com meus conhecimentos e habilidades para sua equipe.
+**Especialista** em criar **interfaces modernas e intuitivas** com **soluções robustas** de ponta a ponta.
+
+Minha **paixão por tecnologia** e **resolução de problemas complexos** me motiva a sempre buscar a **excelência** em cada projeto.
+
+## 🚀 Destaques Profissionais
+
+- ✨ **5 anos** de experiência comprovada no desenvolvimento de **soluções tecnológicas inovadoras**
+
+- 🏆 **Especialista** em **arquiteturas frontend modernas** e **otimização de performance**
+
+- 💡 Criador de **interfaces responsivas e acessíveis** com foco na **experiência do usuário**
+
+- 🔄 **Experiência sólida** com **metodologias ágeis** e **integração contínua** (CI/CD)
+
+- 🌐 Desenvolvimento de **aplicações escaláveis** para ambientes de **alta demanda**
 
 ## 🛠️ Minha Caixa de Ferramentas Tecnológica
 
-### Front-end
-- **Linguagens**: HTML, CSS, JavaScript, TypeScript
-- **Frameworks/Bibliotecas**: ReactJS, React Native, NextJS
+### Frontend
+
+- **Linguagens**: 
+  - HTML5, CSS3/SASS/LESS
+  - **JavaScript (ES6+)**, **TypeScript**
+
+- **Frameworks/Bibliotecas**: 
+  - **React Ecosystem**: ReactJS, Redux, Context API, React Query, React Hook Form
+  - **Next.js**: SSR, SSG, ISR, API Routes, Middlewares
+  - **Mobile**: React Native, Expo
+
+- **UI/UX**: 
+  - Styled Components, Tailwind CSS
+  - Material-UI, Chakra UI, Storybook
+
+- **Performance**: 
+  - **Web Vitals**, Lazy Loading
+  - Code Splitting, Bundle Optimization
+
+- **Testes Frontend**: 
+  - Jest, React Testing Library, Cypress
 
 ### Back-end
-- **Linguagens**: NodeJS
-- **Frameworks**: NestJS
+
+- **Linguagens**: 
+  - **NodeJS**, Python (básico)
+
+- **Frameworks**: 
+  - **NestJS**, Express, Fastify
+
+- **API**: 
+  - REST, **GraphQL**, WebSockets
 
 ### Banco de Dados
-- **Relacionais**: MySQL, PostgreSQL
-- **Não-Relacionais**: MongoDB
 
-### Testes
-- **Testes Unitários**
+- **Relacionais**: 
+  - MySQL, **PostgreSQL**
 
-### Controle de Versão
-- **Ferramentas**: Git, GitHub
+- **Não-Relacionais**: 
+  - **MongoDB**, Firebase
 
-### Integração de APIs
-- Experiência com diversas APIs
+- **ORM/ODM**: 
+  - TypeORM, **Prisma**, Mongoose
 
-## 🌟 Mais do que Habilidades
+### DevOps & Ferramentas
 
-- **Aprendizagem Contínua**: Rocketseat, Alura, DIO, Udemy, Danki Code
-- **Comprometido e Dedicado**: Enfrento cada projeto com entusiasmo e profissionalismo, buscando sempre as melhores soluções.
-- **Proativo e Adaptável**: Ávido por novos conhecimentos, me adapto rapidamente a novas tecnologias e metodologias.
-- **Trabalho em Equipe e Comunicação Eficaz**: Colaboro de forma eficiente com a equipe, comunicando-me de forma clara e objetiva para alcançarmos os melhores resultados.
+- **CI/CD**: 
+  - GitHub Actions, Jenkins
+
+- **Controle de Versão**: 
+  - Git, **GitHub**, GitLab
+
+- **Containers**: 
+  - **Docker**, Docker Compose
+
+- **Cloud**: 
+  - AWS (básico), **Vercel**, Netlify, Heroku
+
+### Testes & Qualidade
+
+- **TDD/BDD**: 
+  - Desenvolvimento orientado a testes
+
+- **Testes Unitários e Integração**: 
+  - **Jest**, Mocha
+
+- **Linters/Formatters**: 
+  - ESLint, Prettier
+
+## 🌟 Diferenciais Competitivos
+
+- **Arquitetura Frontend**: 
+  - **Especialista** em arquiteturas escaláveis e componentização avançada
+
+- **Otimização de Performance**: 
+  - Técnicas avançadas para melhorar métricas **LCP**, **CLS** e **FID**
+
+- **UI/UX**: 
+  - Criação de **interfaces interativas e acessíveis** seguindo as melhores práticas
+
+- **Micro Frontends**: 
+  - Experiência na implementação de **arquitetura de micro frontends**
+
+- **Clean Code**: 
+  - Código **limpo**, **modular** e de **fácil manutenção**
+
+- **Tech Leadership**: 
+  - Capacidade de **mentoria** e **orientação técnica** para desenvolvedores júnior
 
 ## 🎯 O que Busco
 
-- **Primeira Oportunidade Profissional**: Desejo colocar em prática meus conhecimentos e habilidades em um ambiente desafiador e dinâmico.
-- **Equipe Dinâmica e Colaborativa**: Anseio por aprender e crescer ao lado de profissionais experientes e apaixonados por tecnologia.
-- **Contribuir para o Crescimento da Empresa**: Quero fazer parte de um projeto significativo que gere impacto positivo.
+- **Projetos Desafiadores**: 
+  - Busco constantemente **novos desafios** que me permitam aplicar e expandir meus conhecimentos
 
-Acredito que minhas habilidades e meu entusiasmo podem ser um grande trunfo para sua equipe. Entre em [contato comigo](mailto:dev.darioreis@gmail.com) e vamos juntos desvendar novos horizontes tecnológicos!
+- **Ambientes Inovadores**: 
+  - Interesse em empresas que valorizam **inovação** e **novas tecnologias**
 
-
+- **Crescimento Contínuo**: 
+  - Oportunidades para **crescer profissionalmente** e contribuir com **soluções de alto valor**
 
 ## 💫 Um Pouco Mais Sobre Mim
 
-- 👯 **Colaboração**: Quero colaborar com uma equipe dinâmica e desafiadora para contribuir com o crescimento da empresa.
-- 🙏 **Ajuda**: Estou à procura de ajuda para encontrar minha primeira oportunidade no mercado de trabalho como Desenvolvedor Full Stack.
-- 🌱 **Aprendizado**: Atualmente estou aprendendo sobre novas linguagens de programação, como Python.
-- 💬 **Pergunte-me Sobre**: Front-end: HTML, CSS, JavaScript, TypeScript, ReactJS, React-Native, NextJS.
-- 📫 **Como me encontrar?**: [contato@darioreis.dev](mailto:dev.darioreis@gmail.com)
-- ✍ **Escrevo regularmente artigos em**: [Portfólio](https://darioreis.dev/)
-- 💻 **Todos os meus projetos estão disponíveis em**: [Blog](https://darioreis.dev/)
+- 👨‍💻 **Atuação**: 
+  - Desenvolvedor **Full Stack** com foco em tecnologias **JavaScript modernas**
+
+- 🌱 **Aprendizado Atual**: 
+  - Explorando **arquiteturas serverless** e **micro frontend**
+
+- 💬 **Especialidades**: 
+  - **Arquitetura frontend**, **otimização de performance**, **React/Next.js avançado**
+
+- 📚 **Compartilhamento**: 
+  - Compartilho conhecimento através de **artigos técnicos** e **mentorias**
+
+- 🔭 **Projetos Pessoais**: 
+  - Desenvolvimento de **biblioteca open-source** para componentes React acessíveis
+
+- 📫 **Contato**: 
+  - [contato@darioreis.dev](mailto:dev.darioreis@gmail.com)
+
+- ✍ **Blog Técnico**: 
+  - [darioreis.dev](https://darioreis.dev/)
 
 ## 💻 Skills
 <div>
@@ -65,23 +155,31 @@ Acredito que minhas habilidades e meu entusiasmo podem ser um grande trunfo para
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </div>
 
 ## 👥 Connect With Me
 <p>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/darioreisjr/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://twitter.com/https://twitter.com/darioreisjr"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://twitter.com/darioreisjr"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://twitter.com/https://stackoverflow.com/users/21618807/dario-reis"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://www.facebook.com/https://www.facebook.com/darioreisjr"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://www.instagram.com/https://www.instagram.com/darioreisjr/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/UC7NEd-99D2RQELhBAQ-Bzfw"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://linkedin.com/in/darioreisjr"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://twitter.com/darioreisjr"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://discord.gg/darioreisjr"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://stackoverflow.com/users/21618807/dario-reis"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.facebook.com/darioreisjr"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.instagram.com/darioreisjr/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.youtube.com/channel/UC7NEd-99D2RQELhBAQ-Bzfw"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
 ## 🌟 Github Badges
@@ -110,10 +208,3 @@ Acredito que minhas habilidades e meu entusiasmo podem ser um grande trunfo para
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=darioreisjr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-
-
-
-
-
-
