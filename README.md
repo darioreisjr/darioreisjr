@@ -3,21 +3,15 @@
 # 👋 Olá! Eu sou Dário Reis!
 
 Desenvolvedor **Full Stack** com **5 anos de experiência** transformando **ideias em código** e construindo **aplicações de alto impacto**.
-
 **Especialista** em criar **interfaces modernas e intuitivas** com **soluções robustas** de ponta a ponta.
-
 Minha **paixão por tecnologia** e **resolução de problemas complexos** me motiva a sempre buscar a **excelência** em cada projeto.
 
 ## 🚀 Destaques Profissionais
 
 - ✨ **5 anos** de experiência comprovada no desenvolvimento de **soluções tecnológicas inovadoras**
-
 - 🏆 **Especialista** em **arquiteturas frontend modernas** e **otimização de performance**
-
 - 💡 Criador de **interfaces responsivas e acessíveis** com foco na **experiência do usuário**
-
 - 🔄 **Experiência sólida** com **metodologias ágeis** e **integração contínua** (CI/CD)
-
 - 🌐 Desenvolvimento de **aplicações escaláveis** para ambientes de **alta demanda**
 
 ## 🛠️ Minha Caixa de Ferramentas Tecnológica
