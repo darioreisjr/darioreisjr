@@ -64,7 +64,7 @@
 
 <!-- COMUNIDADE & CONTEÚDO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1f232a&height=120&section=header&text=🤝%20Comunidade%20%26%20Conteúdo&fontSize=30&fontColor=ffffff" width="100%" alt="Comunidade e Conteúdo"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1f232a&height=120&section=header&text=%F0%9F%A4%9D%20Comunidade%20%26%20Conte%C3%BAdo&fontSize=30&fontColor=ffffff" width="100%" alt="Comunidade e Conteúdo"/>
 </div>
 
 <p align="center">
@@ -86,12 +86,12 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/darioreisjr?tab=repositories">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=darioreisjr&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&locale=pt-br" width="400" alt="Estatísticas do GitHub"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=darioreisjr&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&locale=pt-br" width="400" alt="Estatísticas do GitHub"/>
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://darioreis.dev">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=400&lines=Transformando+ideias+em+c%C3%B3digo...;Construindo+aplica%C3%A7%C3%B5es+web+modernas;Mentorando+devs+juniores;Entusiasta+de+c%C3%B3digo+limpo" alt="Frases animadas: transformando ideias em código, construindo aplicações web modernas, mentorando devs juniores, entusiasta de código limpo" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=400&lines=Transformando+ideias+em+c%C3%B3digo...;Construindo+aplica%C3%A7%C3%B5es+web+modernas;Mentorando+devs+juniores;Entusiasta+de+c%C3%B3digo+limpo" alt="Frases animadas: transformando ideias em código, construindo aplicações web modernas, mentorando devs juniores, entusiasta de código limpo" />
       </a>
     </td>
   </tr>
