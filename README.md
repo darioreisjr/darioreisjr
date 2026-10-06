@@ -64,7 +64,7 @@
 
 <!-- COMUNIDADE & CONTEÚDO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1f232a&height=120&section=header&text=%F0%9F%A4%9D%20Comunidade%20%26%20Conte%C3%BAdo&fontSize=30&fontColor=ffffff" width="100%" alt="Comunidade e Conteúdo"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1f232a&height=120&section=header&text=%F0%9F%A4%9D%20Comunidade%20e%20Conte%C3%BAdo&fontSize=30&fontColor=ffffff" width="100%" alt="Comunidade e Conteúdo"/>
 </div>
 
 <p align="center">
