@@ -12,7 +12,8 @@
 <!-- HERO -->
 <div align="center">
 
-  <h3><strong>Desenvolvedor Full Stack | Especialista em React & Next.js</strong></h3>
+  <h3><strong>Desenvolvedor de Software | React, Next.js e TypeScript</strong></h3>
+  <p><strong>Arquitetura Front-end • Design Systems • Performance • Node.js & NestJS</strong></p>
   <p><i>Transformando ideias em código: aplicações web modernas, acessíveis e performáticas.</i></p>
 
   <p>
@@ -38,11 +39,12 @@
 
 ### 👨‍💻 Quem sou eu?
 
-* 💻 **Desenvolvedor Full Stack** com 6 anos de experiência, em São Paulo 🇧🇷
-* ⚛️ Especialista em **React e Next.js**, com foco em arquitetura de frontend e performance.
-* 🤝 **Community Manager** na [Café Bugado](https://github.com/cafe-bugado) e mentor de desenvolvedores juniores.
-* 🌱 Atualmente estudando **AWS, Kubernetes e padrões avançados de GraphQL**.
-* 📝 Escrevo artigos técnicos em [blog.darioreis.dev](https://blog.darioreis.dev).
+* 💻 **Desenvolvedor de Software** com atuação principal em Front-end.
+* ⚛️ Trabalho com **React, Next.js e TypeScript**, arquitetura Front-end, Design Systems, performance e acessibilidade.
+* 🏢 **Desenvolvedor Front-end na ProBrain**, atuando em diferentes aplicações React e Next.js.
+* 🤝 **Fundador e Líder Técnico** da Comunidade [Café Bugado](https://github.com/cafebugado).
+* 🧩 Também desenvolvo APIs e aplicações com **Node.js, NestJS, PostgreSQL, Supabase e Prisma**.
+* 🌱 Atualmente aprofundando conhecimentos em **engenharia e arquitetura de software e aplicações de IA**.
 
 <blockquote>
   <p align="left">
@@ -54,7 +56,7 @@
 
 <td width="60%" align="center" valign="middle">
 
-<img src="code-card.svg" width="100%" alt="Objeto dario em TypeScript com cargo, foco atual e estudos"/>
+<img src="code-card.svg" width="100%" alt="Objeto dario em TypeScript com cargo, empresa, comunidade, foco atual e estudos"/>
 
 </td>
 </tr>
@@ -68,11 +70,11 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/cafe-bugado">
-    <img src="https://img.shields.io/badge/Caf%C3%A9_Bugado-Community_Manager-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Café Bugado: Community Manager" />
+  <a href="https://github.com/cafebugado">
+    <img src="https://img.shields.io/badge/Caf%C3%A9_Bugado-Fundador_e_L%C3%ADder_T%C3%A9cnico-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Café Bugado: Fundador e Líder Técnico" />
   </a>
-  <a href="https://github.com/frontcodecommunity">
-    <img src="https://img.shields.io/badge/FrontCode-Membro-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="FrontCode: membro" />
+  <a href="https://cafebugado.com.br">
+    <img src="https://img.shields.io/badge/Site-cafebugado.com.br-1f232a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site da Café Bugado" />
   </a>
   <a href="https://blog.darioreis.dev">
     <img src="https://img.shields.io/badge/Blog-Artigos_t%C3%A9cnicos-6366F1?style=for-the-badge&logo=rss&logoColor=white" alt="Blog: artigos técnicos" />
@@ -91,7 +93,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://darioreis.dev">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=400&lines=Transformando+ideias+em+c%C3%B3digo...;Construindo+aplica%C3%A7%C3%B5es+web+modernas;Mentorando+devs+juniores;Entusiasta+de+c%C3%B3digo+limpo" alt="Frases animadas: transformando ideias em código, construindo aplicações web modernas, mentorando devs juniores, entusiasta de código limpo" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=400&lines=Arquitetura+Front-end+e+Design+Systems;Aplica%C3%A7%C3%B5es+web+modernas+e+escal%C3%A1veis;Lideran%C3%A7a+t%C3%A9cnica+na+Caf%C3%A9+Bugado;Performance+e+acessibilidade" alt="Frases animadas: arquitetura Front-end e Design Systems, aplicações web modernas e escaláveis, liderança técnica na Café Bugado, performance e acessibilidade" />
       </a>
     </td>
   </tr>
@@ -105,12 +107,33 @@
 
 ### 🏅 Destaques
 
-- 🧑‍💻 **6 anos** de experiência como Desenvolvedor Full Stack
-- ☕ **Community Manager** — Café Bugado
-- 🎓 **Mentor** de desenvolvedores juniores
-- 📦 **170+ repositórios públicos** no GitHub
-- 🔀 **400+ pull requests** abertos
-- 🌐 Portfólio e projetos próprios em produção em [darioreis.dev](https://darioreis.dev)
+- 🏢 **Desenvolvedor Front-end** — ProBrain
+- ☕ **Fundador e Líder Técnico** — Comunidade Café Bugado
+- 🎓 **Mentoria e onboarding** de desenvolvedores
+- 🧩 **Experiência Full Stack** com Node.js, NestJS, PostgreSQL, Supabase e Prisma
+- 🌐 Projetos reais e aplicações em produção em [darioreis.dev](https://darioreis.dev)
+
+<!-- EXPERIÊNCIA ATUAL -->
+<h2>💼 Experiência Atual</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏢 ProBrain | Desenvolvedor Front-end</h3>
+      <p>
+        <code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>Material UI</code> <code>Redux</code> <code>Storybook</code> <code>Sentry</code>
+      </p>
+      <p>Atuação no desenvolvimento e evolução de aplicações web, arquitetura Front-end, Design Systems, acessibilidade, performance, integração com APIs, code review, observabilidade, documentação técnica e CI/CD.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☕ <a href="https://github.com/cafebugado">Café Bugado</a> | Fundador & Líder Técnico</h3>
+      <p>
+        <code>Next.js</code> <code>React</code> <code>Angular</code> <code>TypeScript</code> <code>Node.js</code> <code>NestJS</code> <code>PostgreSQL</code> <code>Supabase</code> <code>Prisma</code>
+      </p>
+      <p>Atuação em liderança técnica, arquitetura, desenvolvimento Front-end e Back-end, APIs REST, code review, testes automatizados, CI/CD, segurança, documentação técnica, planejamento e mentoria de desenvolvedores.</p>
+    </td>
+  </tr>
+</table>
 
 <!-- TECH STACK -->
 <h2>⚡ Tech Stack & Ferramentas</h2>
@@ -118,52 +141,105 @@
 <table width="100%" align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3>💻 Linguagens</h3>
-      <img src="https://skillicons.dev/icons?i=ts,js,html,css,sass" alt="TypeScript, JavaScript, HTML, CSS, Sass" />
-      <br/><br/>
       <h3>🎨 Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,styledcomponents,materialui" alt="React, Next.js, Vue, Vite, Tailwind CSS, Styled Components, MUI" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,materialui" alt="React, Next.js, TypeScript, JavaScript, Material UI" />
       <br/><br/>
       <h3>⚙️ Backend</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,bun" alt="Node.js, NestJS, Express, GraphQL, Bun" />
+      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" alt="Node.js, NestJS, Express" />
+      <br/>APIs REST
       <br/><br/>
-      <h3>🗄️ Bancos de Dados</h3>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,supabase" alt="PostgreSQL, MongoDB, Prisma, Supabase" />
+      <h3>🗄️ Dados</h3>
+      <img src="https://skillicons.dev/icons?i=postgres,supabase,prisma" alt="PostgreSQL, Supabase, Prisma" />
       <br/><br/>
-      <h3>☁️ DevOps & Ferramentas</h3>
-      <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel" alt="Docker, Git, GitHub, GitHub Actions, Vercel" />
+      <h3>☁️ DevOps & Observabilidade</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,supabase,docker,sentry" alt="Git, GitHub, GitHub Actions, Vercel, Supabase, Docker, Sentry" />
+      <br/>Docker principalmente em ambiente local
     </td>
     <td width="50%" valign="top">
-      <h3>📱 Mobile</h3>
+      <h3>🔄 Estado & Dados</h3>
       <p>
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-        <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-        <br/>Apps multiplataforma • PWA • Layouts responsivos
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+        <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
+        <br/>Redux Toolkit • Redux-Saga • Zustand • Context API
+      </p>
+      <br/>
+      <h3>🧩 UI & Design System</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
+        <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook" />
+        <br/>ShadCN UI • Tailwind CSS • Sass/SCSS • Styled Components • Emotion
       </p>
       <br/>
       <h3>🧪 Testes & Qualidade</h3>
       <p>
+        <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
         <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
         <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-        <br/>Testing Library • Storybook • ESLint • Prettier • Biome • Husky • Commitlint
+        <br/>Testing Library • Cypress • Supertest • ESLint • Prettier • Husky • Commitlint
       </p>
       <br/>
       <h3>🤖 Inteligência Artificial</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
-        <br/>Integração de LLMs em aplicações web • Geração de conteúdo com IA
-      </p>
-      <br/>
-      <h3>🧩 Arquitetura & Formulários</h3>
-      <p>Component Design • Gerenciamento de Estado (Pinia) • React Hook Form • Zod • Supabase Auth • REST APIs</p>
+      <p>Integração de APIs de IA em aplicações e uso de ferramentas de IA no desenvolvimento.</p>
     </td>
   </tr>
 </table>
 
+<p>
+  <sub><strong>Também já utilizei em projetos e estudos:</strong> Angular • Vue.js • GraphQL • Python • FastAPI • Flask • MongoDB • Bun • Elysia • Drizzle ORM • Java • Spring Boot • React Native (estudo e prototipação) • AWS (estudo e integrações pontuais)</sub>
+</p>
+
 <!-- PROJETOS -->
-<h2>💼 Projetos em Destaque</h2>
+<h2>🗂️ Projetos em Destaque</h2>
 
 <table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☕ <a href="https://github.com/cafebugado">Café Bugado</a></h3>
+      <p>Ecossistema de aplicações da comunidade: site oficial, agenda de eventos, painel administrativo e APIs, sob minha liderança técnica e arquitetura.</p>
+      <p>
+        <code>Next.js</code> <code>Angular</code> <code>NestJS</code> <code>PostgreSQL</code> <code>Supabase</code> <code>Prisma</code>
+      </p>
+      <ul>
+        <li>✔ CI/CD, testes automatizados, segurança e documentação técnica</li>
+        <li>✔ No ar em <a href="https://cafebugado.com.br">cafebugado.com.br</a></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧑‍💻 <a href="https://github.com/darioreisjr/portifolio_2026">Portfólio 2026</a> + <a href="https://github.com/darioreisjr/api_portfolio_26">API</a></h3>
+      <p>Portfólio inspirado no VS Code, com PWA e internacionalização, alimentado por uma API própria para projetos, tecnologias e categorias.</p>
+      <p>
+        <code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Tailwind CSS</code> <code>ShadCN UI</code> <code>React Query</code> <code>NestJS</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Supabase</code>
+      </p>
+      <ul>
+        <li>✔ API com JWT, Swagger, paginação, filtros e camadas de segurança</li>
+        <li>✔ CI/CD e deploy na Vercel, no ar em <a href="https://darioreis.dev">darioreis.dev</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚽ <a href="https://github.com/darioreisjr/copadomundo2026">Bolão Copa do Mundo 2026</a></h3>
+      <p>Aplicação web de bolão com apostas de placar, ranking em tempo real e geração de jogos via IA.</p>
+      <p>
+        <code>Vue 3</code> <code>Vuetify</code> <code>Pinia</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Google Gemini</code>
+      </p>
+      <ul>
+        <li>✔ Auth, RLS e Storage do Supabase, com regras de negócio de pontuação</li>
+        <li>✔ No ar em <a href="https://bolaocopa26.darioreis.dev/">bolaocopa26.darioreis.dev</a></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 <a href="https://github.com/darioreisjr/whatsapp-ranking-nextjs">WhatsApp Ranking</a></h3>
+      <p>Analisa chats exportados do WhatsApp e mostra quem mais participa das conversas em grupo.</p>
+      <p>
+        <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>PWA</code>
+      </p>
+      <ul>
+        <li>✔ Processamento local no navegador: privado, gratuito e sem cadastro</li>
+        <li>✔ No ar em <a href="https://whatsappranking.darioreis.dev/">whatsappranking.darioreis.dev</a></li>
+      </ul>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>💜 <a href="https://github.com/darioreisjr/WeMoment">WeMoment</a></h3>
@@ -180,7 +256,7 @@
       <h3>🌬️ <a href="https://github.com/darioreisjr/kokyu">Kokyu</a></h3>
       <p>Central para gerenciar a vida cotidiana: trabalho, estudos, saúde, hábitos, metas, finanças e rotina diária.</p>
       <p>
-        <code>Next.js</code> <code>TypeScript</code> <code>MUI</code> <code>Supabase</code> <code>Vitest</code> <code>Playwright</code> <code>Storybook</code>
+        <code>Next.js</code> <code>TypeScript</code> <code>Material UI</code> <code>Supabase</code> <code>Vitest</code> <code>Playwright</code> <code>Storybook</code>
       </p>
       <ul>
         <li>✔ Testes unitários e E2E, com componentes documentados no Storybook</li>
@@ -188,35 +264,11 @@
       </ul>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚽ <a href="https://github.com/darioreisjr/copadomundo2026">Bolão Copa do Mundo 2026</a></h3>
-      <p>Aplicação web de bolão com apostas de placar, ranking em tempo real e geração de jogos via IA.</p>
-      <p>
-        <code>Vue</code> <code>Vuetify</code> <code>Pinia</code> <code>Supabase</code> <code>Google Gemini</code>
-      </p>
-      <ul>
-        <li>✔ Ranking em tempo real entre os participantes</li>
-        <li>✔ No ar em <a href="https://bolaocopa26.darioreis.dev/">bolaocopa26.darioreis.dev</a></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💬 <a href="https://github.com/darioreisjr/whatsapp-ranking-nextjs">WhatsApp Ranking</a></h3>
-      <p>Analisa chats exportados do WhatsApp e mostra quem mais participa das conversas em grupo.</p>
-      <p>
-        <code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>PWA</code> <code>JSZip</code>
-      </p>
-      <ul>
-        <li>✔ Totalmente privado, gratuito e sem cadastro</li>
-        <li>✔ No ar em <a href="https://whatsappranking.darioreis.dev/">whatsappranking.darioreis.dev</a></li>
-      </ul>
-    </td>
-  </tr>
 </table>
 
 <!-- EXPERIÊNCIA -->
-<h2>🚀 Experiência em Engenharia</h2>
-<p>Ao longo da minha trajetória, projetei e entreguei aplicações em diferentes camadas da stack.</p>
+<h2>🛠️ Experiência em Engenharia</h2>
+<p>Competências que aplico no dia a dia, da interface à entrega em produção.</p>
 
 <table width="100%">
   <tr>
@@ -224,61 +276,59 @@
       <h3>🎨 Frontend</h3>
       <ul>
         <li>React & Next.js</li>
-        <li>Vue & Vuetify</li>
-        <li>Arquitetura de Frontend</li>
-        <li>Design de Componentes</li>
-        <li>Gerenciamento de Estado</li>
-        <li>Otimização de Performance</li>
+        <li>Arquitetura Front-end</li>
+        <li>Design Systems</li>
+        <li>Performance Web</li>
+        <li>Acessibilidade</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <h3>🌐 Backend</h3>
       <ul>
+        <li>Node.js & NestJS</li>
         <li>APIs REST</li>
-        <li>NestJS & Express</li>
-        <li>GraphQL</li>
-        <li>Autenticação & Autorização</li>
-        <li>PostgreSQL & MongoDB</li>
-        <li>Supabase (Auth & Storage)</li>
+        <li>Autenticação</li>
+        <li>PostgreSQL</li>
+        <li>Supabase & Prisma</li>
       </ul>
     </td>
     <td width="34%" valign="top">
-      <h3>📱 Mobile & PWA</h3>
+      <h3>🧪 Qualidade</h3>
       <ul>
-        <li>React Native & Expo</li>
-        <li>Progressive Web Apps</li>
-        <li>Design Responsivo</li>
-        <li>Suporte a múltiplos idiomas</li>
+        <li>Testes automatizados</li>
+        <li>Code Review</li>
+        <li>Storybook</li>
+        <li>CI/CD com GitHub Actions</li>
+        <li>Conventional Commits & SemVer</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <h3>🧪 Testes & Qualidade</h3>
+      <h3>🔐 Observabilidade & Segurança</h3>
       <ul>
-        <li>Vitest & Testing Library</li>
-        <li>Playwright (E2E)</li>
-        <li>Storybook</li>
-        <li>Lint, formatação e Git hooks</li>
-        <li>Código limpo</li>
+        <li>Sentry</li>
+        <li>CORS, Helmet e rate limiting</li>
+        <li>Autenticação & autorização</li>
+        <li>Segurança Front-end</li>
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h3>🛠️ DevOps & Infra</h3>
+      <h3>⚡ Web & Entrega</h3>
       <ul>
-        <li>Docker</li>
-        <li>Git & GitHub</li>
-        <li>GitHub Actions</li>
-        <li>Deploy na Vercel</li>
+        <li>Core Web Vitals & Lighthouse</li>
+        <li>SEO técnico</li>
+        <li>Internacionalização</li>
+        <li>Documentação técnica</li>
       </ul>
     </td>
     <td width="34%" valign="top">
-      <h3>🤝 Liderança & Comunidade</h3>
+      <h3>🤝 Liderança</h3>
       <ul>
-        <li>Mentoria de juniores</li>
-        <li>Gestão de comunidade</li>
-        <li>Artigos técnicos</li>
-        <li>Workshops</li>
+        <li>Liderança técnica</li>
+        <li>Mentoria & onboarding</li>
+        <li>Planejamento técnico</li>
+        <li>Definição de padrões</li>
       </ul>
     </td>
   </tr>
@@ -288,7 +338,7 @@
 <h2>🔭 No Que Estou Trabalhando Agora</h2>
 <p>
   <strong>🚀 Foco atual:</strong><br/>
-  Biblioteca de componentes React acessível • Arquitetura Serverless • Micro Frontends • Otimização de Performance • Artigos técnicos em <a href="https://blog.darioreis.dev">blog.darioreis.dev</a> • Mentoria de desenvolvedores juniores
+  Arquitetura Front-end • Design Systems • Performance Web • Engenharia e Arquitetura de Software • Next.js • NestJS • CI/CD • Qualidade de Software • Aplicações de IA • Evolução dos projetos da <a href="https://github.com/cafebugado">Café Bugado</a>
 </p>
 
 <!-- GITHUB STATS -->
@@ -296,7 +346,6 @@
 <div align="center">
   <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darioreisjr&theme=tokyonight" alt="Repositórios por linguagem" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darioreisjr&theme=tokyonight" alt="Linguagens com mais commits" />
   </p>
   <p>
     <img src="https://streak-stats.demolab.com/?user=darioreisjr&theme=tokyonight&hide_border=true&background=0D1117&locale=pt_BR" alt="Sequência de contribuições" width="97%" />

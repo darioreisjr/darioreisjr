@@ -44,10 +44,6 @@ def xe(s):
     return html.escape(str(s), quote=True)
 
 
-def milhar(n):
-    return f"{n:,}".replace(",", ".")
-
-
 def salvar(nome, svg):
     caminho = os.path.join(OUT_DIR, nome)
     with open(caminho, "w", encoding="utf-8") as f:
@@ -89,12 +85,8 @@ def obter_token():
 QUERY = """
 query($login: String!) {
   user(login: $login) {
-    followers { totalCount }
-    pullRequests { totalCount }
-    repositories(ownerAffiliations: OWNER, privacy: PUBLIC) { totalCount }
     contributionsCollection {
       contributionCalendar {
-        totalContributions
         weeks { contributionDays { date weekday contributionLevel } }
       }
     }
@@ -190,11 +182,11 @@ def gerar_contribuicoes(calendario):
                 )
             L.append("</rect>")
 
-    # rodapé: total real + legenda
+    # rodapé: legenda
     y_rodape = gy + 7 * passo + 14
     L.append(
         f'<text x="{gx}" y="{y_rodape}" fill="#8b949e" font-size="11" font-family="system-ui,sans-serif">'
-        f'{milhar(calendario["totalContributions"])} contribuições no último ano</text>'
+        f"Contribuições no último ano</text>"
     )
     x_leg = gx + (len(semanas) - 1) * passo + q - 5 * passo - 38
     L.append(
@@ -273,25 +265,25 @@ def gerar_retrato():
 
 
 # ─── info-card.svg ───────────────────────────────────────────────────────────
-def gerar_info(usuario):
-    calendario = usuario["contributionsCollection"]["contributionCalendar"]
+def gerar_info():
     itens = [
         ("cabecalho",),
         ("secao", "— Sobre"),
-        ("campo", "Cargo", "Desenvolvedor Full Stack · 6 anos"),
-        ("campo", "Foco", "React, Next.js e performance"),
+        ("campo", "Cargo", "Desenvolvedor de Software"),
+        ("campo", "Foco", "Front-end · React, Next.js, TypeScript"),
+        ("campo", "Atual", "Desenvolvedor Front-end @ ProBrain"),
+        ("campo", "Comunidade", "Fundador & Líder Técnico @cafebugado"),
         ("campo", "Local", "São Paulo, Brasil"),
-        ("campo", "Comunidade", "Community Manager @cafe-bugado"),
         ("secao", "— Stack"),
-        ("campo", "Frontend", "React, Next.js, TypeScript, Vue"),
-        ("campo", "Backend", "Node.js, NestJS, Express"),
-        ("campo", "Banco", "PostgreSQL, MongoDB, Supabase"),
-        ("campo", "DevOps", "Docker, GitHub Actions, Vercel"),
+        ("campo", "Frontend", "React, Next.js, TypeScript"),
+        ("campo", "Backend", "Node.js, NestJS"),
+        ("campo", "Dados", "PostgreSQL, Supabase, Prisma"),
+        ("campo", "DevOps", "GitHub Actions, Vercel"),
         ("secao", "— Destaques"),
-        ("marcador", f'{milhar(usuario["repositories"]["totalCount"])} repositórios públicos'),
-        ("marcador", f'{milhar(calendario["totalContributions"])} contribuições no último ano'),
-        ("marcador", f'{milhar(usuario["pullRequests"]["totalCount"])} pull requests abertos'),
-        ("marcador", f'{milhar(usuario["followers"]["totalCount"])} seguidores'),
+        ("marcador", "Arquitetura Front-end e Design Systems"),
+        ("marcador", "Performance, acessibilidade e qualidade"),
+        ("marcador", "Experiência Full Stack em projetos reais"),
+        ("marcador", "Aplicações próprias em produção"),
     ]
 
     largura, alt_linha, dur, passo = 480, 20.5, 0.4, 0.06
@@ -360,17 +352,21 @@ def gerar_codigo():
 
     linhas = [
         [("const", K), (" dario", C_ORANGE), (" = {", T)],
-        prop("cargo", '"Desenvolvedor Full Stack"'),
-        prop("experiencia", '"6 anos"'),
-        prop("local", '"São Paulo, Brasil 🇧🇷"'),
+        prop("cargo", '"Desenvolvedor de Software"'),
+        prop("atuacao", '"Front-end"'),
+        prop("empresa", '"ProBrain"'),
+        prop("comunidade", '"Café Bugado · Fundador & Líder Técnico"'),
         [("  ", T), ("focoAtual", P), (": [", T)],
-        item('"Arquitetura Serverless"'),
-        item('"Micro Frontends"'),
-        item('"Otimização de Performance"'),
+        item('"Arquitetura Front-end"'),
+        item('"Design Systems"'),
+        item('"Performance Web"'),
+        item('"Engenharia de Software"'),
         [("  ],", T)],
-        prop("construindo", '"Biblioteca de componentes React acessível"'),
-        [("  ", T), ("aprendendo", P), (": [", T), ('"AWS"', S), (", ", T), ('"Kubernetes"', S),
-         (", ", T), ('"GraphQL"', S), ("],", T)],
+        [("  ", T), ("aprendendo", P), (": [", T)],
+        item('"Arquitetura de Software"'),
+        item('"Aplicações de IA"'),
+        item('"Cloud Fundamentals"'),
+        [("  ],", T)],
         prop("curiosidade", '"Transformo café em código limpo ☕"'),
         [("};", T)],
     ]
@@ -399,5 +395,5 @@ if __name__ == "__main__":
         gerar_contribuicoes(usuario["contributionsCollection"]["contributionCalendar"]),
     )
     salvar("terminal-card.svg", gerar_retrato())
-    salvar("info-card.svg", gerar_info(usuario))
+    salvar("info-card.svg", gerar_info())
     salvar("code-card.svg", gerar_codigo())
